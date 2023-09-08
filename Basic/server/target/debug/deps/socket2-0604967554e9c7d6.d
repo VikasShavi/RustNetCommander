@@ -1,0 +1,11 @@
+/Users/vikas/Desktop/PlacementProjects/RustNetCommander/Basic/server/target/debug/deps/socket2-0604967554e9c7d6.rmeta: /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/lib.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockaddr.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/socket.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockref.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sys/unix.rs
+
+/Users/vikas/Desktop/PlacementProjects/RustNetCommander/Basic/server/target/debug/deps/libsocket2-0604967554e9c7d6.rlib: /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/lib.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockaddr.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/socket.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockref.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sys/unix.rs
+
+/Users/vikas/Desktop/PlacementProjects/RustNetCommander/Basic/server/target/debug/deps/socket2-0604967554e9c7d6.d: /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/lib.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockaddr.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/socket.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockref.rs /Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sys/unix.rs
+
+/Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/lib.rs:
+/Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockaddr.rs:
+/Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/socket.rs:
+/Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockref.rs:
+/Users/vikas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sys/unix.rs:
