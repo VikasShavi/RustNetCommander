@@ -19,3 +19,6 @@ The Intermediate C2 Server is a command-line tool implemented in Rust that provi
 - List all connected clients using a HashMap that maps unique names to client IP addresses and TcpStreams.
 - Stop the server manager gracefully.
 - Interact with specific clients by sending custom commands and receiving output in real-time.
+
+### Screenshots
+<img width="1031" alt="image" src="https://github.com/VikasShavi/RustNetCommander/assets/83757578/3ce251cd-e21d-48e9-aa9e-c3ee7dfb0cb7">
