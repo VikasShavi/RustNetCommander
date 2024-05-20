@@ -1,0 +1,3 @@
+cargo:include=/Users/vikas/Desktop/PlacementProjects/RustNetCommander/Intermediate/server/target/debug/build/aws-lc-sys-c83b9a1f6f57de3e/out/include
+cargo:libcrypto=aws_lc_0_16_0_crypto
+cargo:root=/Users/vikas/Desktop/PlacementProjects/RustNetCommander/Intermediate/server/target/debug/build/aws-lc-sys-c83b9a1f6f57de3e/out
